@@ -1,0 +1,41 @@
+body{
+    background-image: url(../Posicionament/imagenes/lago.webp);
+    background-size: cover;
+}
+fieldset{
+    border: 0px;
+}
+.revuelto{
+    width: 350px;
+    height: auto;
+    position: relative;
+    top: -20px;
+}
+.huracan{
+    width: 350px;
+    height: auto;
+    position: relative;
+    top: -20px;
+    left: 800px;
+}
+.veneno{
+    width: 350px;
+    height: auto;
+    position: relative;
+    top: 450px;
+    right: 700px;
+}
+.roadster{
+    width: 350px;
+    height: auto;
+    position: relative;
+    top: 450px;
+    left: 100px;
+}
+.logo{
+    width: 350px;
+    height: auto;
+    position: relative;
+    left: 575px;
+    bottom: 100px;
+}
